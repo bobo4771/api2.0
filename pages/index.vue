@@ -27,7 +27,7 @@
           </div>
         </div>
         <nuxt-link :to=" {name: 'product-id', params: { id: weather }} ">
-          <v-btn>Details</v-btn>
+          <v-btn>Temperature  now</v-btn>
         </nuxt-link>
       </div>
     </main>
